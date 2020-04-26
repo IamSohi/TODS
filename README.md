@@ -29,7 +29,7 @@ Employees will be able to:
     
 # Use Case Diagrams:
     
-   <p align="center"><img src="Screenshots/useCaseDiagram.PNG" width="80%"></p>
+   <p align="center"><img src="Screenshots/useCaseDiagram.png" width="80%"></p>
    
 # Basic Tour:
 
