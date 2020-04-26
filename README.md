@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TODS
 This is the repository for the project "TODS - a Point of Sale system"
 =======
@@ -31,7 +30,7 @@ Employees will be able to:
     
 # Use Case Diagrams:
     
-   <p align="center"><img src="Screenshots/employeeLogin.PNG" width="80%"></p>
+   <p align="center"><img src="Screenshots/useCaseDiagram.PNG" width="80%"></p>
    
 # Basic Tour:
 
@@ -78,5 +77,5 @@ Employees will be able to:
    <img src="Screenshots/order.PNG" width="45%">&nbsp;<img src="Screenshots/editOrder.PNG" width="45%">
    <br/>
    <img src="Screenshots/invoice.PNG" width="45%">&nbsp;<img src="Screenshots/driver.PNG" width="45%">
-  
->>>>>>> 962172da94b23c31210db8dd5a7e0628f88e00f5
+   
+   <p align="center">###################🅣🅗🅐🅝🅚🅢##################<p>
