@@ -1,6 +1,5 @@
-# TODS
-This is the repository for the project "TODS - a Point of Sale system"
-=======
+<h1 align="center">TODS</h1>
+
 # This is the repository for the project "TODS - a Point of Sale system"
 
 ## TODS - Tiffin Order & Delivery System - is a POS system that allows the business to take orders and manage them efficiently. 
