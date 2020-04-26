@@ -10,8 +10,8 @@ Employees will be able to:
 
 # Contributions:
 
-    Sukhveer Sohi (https://github.com/IamSohi)
-    Gurkamal Bassi  (https://github.com/mrgarrybassi)
+    Sukhveer Sohi [IamSohi](https://github.com/IamSohi)
+    Gurkamal Bassi  [mrgarrybassi](https://github.com/mrgarrybassi)
     Prabhjot Saddi
 
 
