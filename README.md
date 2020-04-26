@@ -8,7 +8,7 @@ Employees will be able to:
     3. manage inventory
     4. make invoice
 
-# Contributions:
+# Contributors:
 
    Sukhveer Sohi   [IamSohi](https://github.com/IamSohi)
    
