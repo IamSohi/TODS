@@ -10,11 +10,12 @@ Employees will be able to:
 
 # Contributions:
 
-    Sukhveer Sohi [IamSohi](https://github.com/IamSohi)
-    Gurkamal Bassi  [mrgarrybassi](https://github.com/mrgarrybassi)
-    Prabhjot Saddi
-
-
+   Sukhveer Sohi   [IamSohi](https://github.com/IamSohi)
+   
+   Gurkamal Bassi  [mrgarrybassi](https://github.com/mrgarrybassi)
+   
+   Prabhjot Saddi
+   
 # Techinologies Used:     
       
     Java Programming Language
